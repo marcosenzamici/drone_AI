@@ -10,5 +10,4 @@
 2. Creare un nuovo progetto su qualsiasi IDE ( ad esempio PyCharm )
 3. Installare la libreria indicata nella Wiki col comando pip install opencv-python
 4. Opzionale : è possibile anche installare la libreria nell'ambiente virtuale .venv
-5. Collegarsi alla rete Wifi e Bluetooth del drone da PC ( es. Mambo_7231 )
-6. Avviare il codice cliccando su Run ( su PyCharm si trova in alto a destra )
+5. Avviare il codice cliccando su Run ( su PyCharm si trova in alto a destra )
